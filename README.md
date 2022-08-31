@@ -11,16 +11,16 @@
 
 - 📝 I regularly write articles on [https://getimore.blogspot.com/](https://getimore.blogspot.com/)
 
-- 📫 How to reach me **abc@gmail.com**
+- 📫 How to reach me **nushameenas253@gmail.com**
 
-- 📄 Know about me at [www.linkedin.com/in/mtmzakir](www.linkedin.com/in/mtmzakir)
+- 📄 Know about me at [https://www.linkedin.com/in/nusha-m-begum-zainulabdeen-a6a593192/)
 
 - ⚡ Fun fact **I think I'm Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/i4m_zakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i4m_zakir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mtmzakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mtmzakir" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nusha-m-begum-zainulabdeen-a6a593192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mtmzakir" height="30" width="40" /></a>
 <a href="https://fb.com/mtm.zakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mtm.zakir" height="30" width="40" /></a>
 <a href="https://instagram.com/i4m_zakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i4m_zakir" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/uccwyrumvgx6l_6pp5oc6piw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uccwyrumvgx6l_6pp5oc6piw" height="30" width="40" /></a>
