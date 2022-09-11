@@ -3,7 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mtmzakir&label=Profile%20views&color=0e75b6&style=flat" alt="mtmzakir" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nushambegum" target="blank"><img src="https://img.shields.io/twitter/follow/i4m_zakir?logo=twitter&style=for-the-badge" alt="nushambegum" /></a> </p>
 
 - 🔭 I’m currently Reading **Bachelor of Software Engineering Degree**
 
