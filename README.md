@@ -8,7 +8,7 @@
 
 - 👨‍💻 I’m currently learning **at Open University of Sri Lanka**
 
-- 📝 I regularly write articles on [https://getimore.blogspot.com/](https://getimore.blogspot.com/)
+- 📝 I regularly write articles on [https://nushambegum.blogspot.com/](https://nushambegum.blogspot.com/)
 
 - 📫 How to reach me **nushameenas253@gmail.com**
 
