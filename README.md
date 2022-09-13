@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nusha</h1>
 <h3 align="center">A Software Engineering Undergraduate from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mtmzakir&label=Profile%20views&color=0e75b6&style=flat" alt="mtmzakir" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mtmzakir&label=Profile%20views&color=0e75b6&style=flat" alt="NushaMBZ" /> </p>
 
 
 - 🔭 I’m currently Reading **Bachelor of Software Engineering Degree**
@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/i4m_zakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i4m_zakir" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nusha-m-begum-zainulabdeen-a6a593192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mtmzakir" height="30" width="40" /></a>
+<a href="https://twitter.com/nushambegum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NushaMBZ" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nusha-m-begum-zainulabdeen-a6a593192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NushaMBZ" height="30" width="40" /></a>
 <a href="https://fb.com/mtm.zakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mtm.zakir" height="30" width="40" /></a>
 <a href="https://instagram.com/i4m_zakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i4m_zakir" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/uccwyrumvgx6l_6pp5oc6piw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uccwyrumvgx6l_6pp5oc6piw" height="30" width="40" /></a>
