@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nushambegum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NushaMBZ" height="30" width="40" /></a>
+<a href="https://twitter.com/begum_nusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NushaMBZ" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nusha-m-begum-zainulabdeen-a6a593192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NushaMBZ" height="30" width="40" /></a>
 <a href="https://fb.com/mtm.zakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mtm.zakir" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCWW_bc5icvmBBdOU1QIz2lQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uccwyrumvgx6l_6pp5oc6piw" height="30" width="40" /></a>
