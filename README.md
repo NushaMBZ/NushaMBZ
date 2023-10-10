@@ -3,7 +3,6 @@
 <h3 align="center">Currently Reading BSE (Hons) at Open University Of Sri Lanka</h3>
 <img src="https://www.pinterest.com/pin/coding--291397038380287858/" width="20%">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nushambz&label=Profile%20views&color=0e75b6&style=flat" alt="nushambz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nushambz" alt="nushambz" /></a> </p>
