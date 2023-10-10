@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nusha Meenas Begum.</h1>
 
 <h3 align="center">Currently Reading BSE (Hons) at Open University Of Sri Lanka</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding--291397038380287858%2F&psig=AOvVaw3T1Z_hcuNOxUK98xXDqxND&ust=1697055161869000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDQuaKl7IEDFQAAAAAdAAAAABAJ.gif" width="20%">
+<img src="https://www.pinterest.com/pin/coding--291397038380287858/" width="20%">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nushambz&label=Profile%20views&color=0e75b6&style=flat" alt="nushambz" /> </p>
